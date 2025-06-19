@@ -1,3 +1,0 @@
-<?php 
-    include('../articles.php')
-?>
